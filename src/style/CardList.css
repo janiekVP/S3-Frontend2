@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    width: 300px;
+    height: 360px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;  
+    padding: 20px;
+    background-color: #f7f7ff;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.cardImage {
+    width: 150px;
+    height: 150px;
+    
+}
+
+.buy-btn {
+    background-color: #4d4af0;
+    border-color: #6b69ff;
+    color: #e9e9f3;
+}

@@ -1,0 +1,14 @@
+.AccountButton {
+    background-color: whitesmoke;
+    width: 120px;
+    height: 120px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AccountImage {
+    width: 100px;
+    height: 100px;
+}
