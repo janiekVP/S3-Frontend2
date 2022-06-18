@@ -8,6 +8,7 @@ class Home extends Component {
             <div>
                 <Container fluid>
                     <h1>WELCOME</h1>
+                    <a href="http://localhost:3000/">User</a>
                 </Container>
             </div>
         );

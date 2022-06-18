@@ -15,12 +15,6 @@ const Header = () => {
                         <li><Link to='/items' className='nav-link px-2 text-lpurple'>Items</Link></li>
                         <li><Link to='/users' className='nav-link px-2 text-lpurple'>Users</Link></li>
                     </ul>
-
-
-                    <div className='text-end'>
-                        <button className='btn btn-outline-light me-2 headbtn'>Login</button>
-                        <button className='btn btn-outline-light headbtn'>Register</button>
-                    </div>
                 </div>
             </div>
         </header>
