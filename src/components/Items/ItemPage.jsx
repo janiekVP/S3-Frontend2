@@ -22,8 +22,8 @@ function ItemPage() {
         return ( 
             <div className='container'>
                 <div className='profile-container'>
-                    <p>{item.name}</p>
-                    <p>{item.description}</p>
+                    <p>Name: {item.name}</p>
+                    <p>Description: {item.description}</p>
                 </div>
             </div>
          );
